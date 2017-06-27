@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "HighPerMeshes Project Overview"
+title                    : "HighPerMeshes BMBF Project"
 title_separator          : "-"
-name                     : "The HighPerMeshes"
+name                     : "Paderborn University"
 description              : "Website for the HighPerMeshes BMBF Project."
 url                      : "http://highpermeshes.info"
 baseurl                  : # the subpath of your site, e.g. "/blog"
