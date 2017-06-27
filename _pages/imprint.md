@@ -7,19 +7,19 @@ permalink: /imprint/
 
 This website is published by University of Paderborn on behalf of the HighPermeshes project consortium. The University of Paderborn is a statutory body and an institution of the State of North Rhine-Westphalia. The University is legally represented by its President, Prof. Dr. Wilhelm Schäfer, who carries the overall responsibility for this website:
 
-President of the University of Paderborn
-Prof. Dr. Wilhelm Schäfer
-University of Paderborn
-Warburger Str. 100
-33098 Paderborn, Germany
-Phone: +49-5251-600 (central switchboard)
+President of the University of Paderborn  
+Prof. Dr. Wilhelm Schäfer  
+University of Paderborn  
+Warburger Str. 100  
+33098 Paderborn, Germany  
+Phone: +49-5251-600 (central switchboard)  
 
 University of Paderborn's VAT No: DE 811209907
 
 The competent supervisory authority for University of Paderborn is the NRW Ministry of Innovation, Science, Research and Technology, Völklinger Str. 49, 40221 Düsseldorf, Germany.
 
 Editorial responsibility
-The responsible editor with respect to the German State Treaty on Broadcasting Services and Telecommunication Media (§55 RStV) is the HighPerMeshes project coordinator, Prof. Dr. Christian Plessl, email: [christian.plessl@uni-paderborn.de][mailto:christian.plessl@uni-paderborn.de].
+The responsible editor with respect to the German State Treaty on Broadcasting Services and Telecommunication Media (§55 RStV) is the HighPerMeshes project coordinator, Prof. Dr. Christian Plessl, email: [christian.plessl@uni-paderborn.de](mailto:christian.plessl@uni-paderborn.de).
 
 # Disclaimer #
 
@@ -35,4 +35,4 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-You can contradict the collection and use of your IP address with Google Analytics at any time with effect for the future. For more information, see [http://tools.google.com/dlpage/gaoptout][http://tools.google.com/dlpage/gaoptout]. We point out that on this site Google Analytics has been extended with the code "gat._anonymizeIp();" to provide an anonymous collection of IP addresses.
+You can contradict the collection and use of your IP address with Google Analytics at any time with effect for the future. For more information, see [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout). We point out that on this site Google Analytics has been extended with the code "gat._anonymizeIp();" to provide an anonymous collection of IP addresses.
