@@ -1,3 +1,8 @@
+---
+title: "Imprint"
+permalink: /imprint/
+---
+
 # Overall responsibility #
 
 This website is published by University of Paderborn on behalf of the HighPermeshes project consortium. The University of Paderborn is a statutory body and an institution of the State of North Rhine-Westphalia. The University is legally represented by its President, Prof. Dr. Wilhelm Schäfer, who carries the overall responsibility for this website:

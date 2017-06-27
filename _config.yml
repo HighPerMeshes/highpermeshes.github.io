@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : highpermeshes
   google_plus      :
   keybase          :
   instagram        :
@@ -244,11 +244,3 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-      author_profile: false
-      comments: false
