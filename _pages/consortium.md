@@ -14,7 +14,11 @@ The HighPerMeshes consortium is formed by four German institutions and one assoc
 <a name="upb"></a>
 ## Paderborn University ##
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Paderborn University (UPB) will be represented within the project by the Paderborn Center for Parallel Computing (PC²). PC² was founded in 1991 as an interdisciplinary institute of UPB and since then has established a reputation as a competence centre for parallel and distributed computing and innovative computer architecture. Two research groups whose heads are affiliated with PC² will contribute to the project.
+
+The [High-Performance IT Systems group](http://cs.uni-paderborn.de/hit) headed by Prof. Christian Plessl contributes expertise in the area of design methods and application of FPGA-based custom computing technology to scientific computing problems.
+
+The [Theoretical Electrical Engineering Group](http://tet.uni-paderborn.de) headed by Prof. Jens Förstner contributes expertise in the area of the theoretical description and simulation of photonic and optoelectronic systems. The key expertise of the group is to combine advance material models with state-of-the-art numerical simulation methods of electromagnetic fields.
 
 The role of UPB in the HighPerMeshes project is:
 * project coordination
