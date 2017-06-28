@@ -6,8 +6,8 @@ permalink: /consortium/
 The HighPerMeshes consortium is formed by four German institutions and one associated project partner:
 
 * [Paderborn University](#upb)
-* [Fraunhofer ITWM](#itwm)
 * [Friedrich-Alexander Universität Erlangen-Nürnberg](#fau)
+* [Fraunhofer ITWM](#itwm)
 * [Konrad-Zuse-Zentrum für Informationstechnik Berlin](#zib)
 * [Computer Simulation Technology](#cst)
 
@@ -17,9 +17,22 @@ The HighPerMeshes consortium is formed by four German institutions and one assoc
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 The role of UPB in the HighPerMeshes project is:
-* bla
-* bla
-* bla
+* project coordination
+* providing a computational nanophotonics code and case studies
+* contribution to design and validation of domain-specific language
+* develop domain-specific code generation and optimization strategies for FPGAs
+* validate results with FPGAs
+
+
+<a name="fau"></a>
+## Friedrich-Alexander Universität Erlangen-Nürnberg ##
+
+Friedrich-Alexander Universität Erlangen-Nürnberg (FAU) is ...
+
+The role of FAU in the HighPerMeshes project is:
+* design of a domain-specific compiler front-end and intermediate representation
+* development of compiler infrastructure for transformation and optimization
+* development of OpenCL code generation backend
 
 
 <a name="itwm"></a>
@@ -28,19 +41,10 @@ The role of UPB in the HighPerMeshes project is:
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 The role of ITWM in the HighPerMeshes project is:
-* bla
-* bla
-* bla
-
-<a name="fau"></a>
-## Friedrich-Alexander Universität Erlangen-Nürnberg ##
-
-Friedrich-Alexander Universität Erlangen-Nürnberg (FAU) is ...
-
-The role of FAU in the HighPerMeshes project is:
-* bla
-* bla
-* bla
+* development problem partitioning strategies for large-scale clusters
+* providing task models for load balancing within a compute node and within the cluster
+* development of code transformations for communication and synchronization
+* commercial exploitation of results
 
 <a name="zib"></a>
 ## Konrad-Zuse-Zentrum für Informationstechnik Berlin ##
@@ -50,17 +54,18 @@ The Zuse Institute Berlin (ZIB) is a non-university research institute of the St
 The Computer Science Dept. "Parallel and Distributed Systems" carries out research on scalable, fault-tolerant and distributed algorithms as well as the development of algorithms for heterogeneous many-core systems.
 
 The role of ZIB in the HighPerMeshes project is:
-* bla
-* bla
-* bla
-
+* providing the Kaskade FE toolbox reference code and case studies
+* contribution to design and validation of domain-specific language
+* develop domain-specific code generation and optimization strategies for Multi- and Manycores (Xeon, Xeon Phi) and GPU (OpenCL)
+* design of intermediate representation for communication and task offloading
+* validate results with Multi- and Manycores
 
 <a name="cst"></a>
-## Computer Simulation Technology Darmstadt (associated project partner) ##
+## Computer Simulation Technology AG (associated project partner) ##
 
 Computer Simulation Technology (CST) is ..
 
 The role of CST in the HighPerMeshes project is:
-* bla
-* bla
-* bla
+* contribute to definition of requirements for domain-specific language and compilation framework
+* provide insights into customer demand and technological developments
+* validation of results with CST Microwave Studio
