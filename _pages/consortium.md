@@ -14,6 +14,10 @@ The HighPerMeshes consortium is formed by four German institutions and one assoc
 <a name="upb"></a>
 ## Paderborn University ##
 
+<picture>
+<img src="/assets/images/Logo-UPB.png" style="float:right;" width="200" title="Paderborn University Logo">
+</picture>
+
 Paderborn University (UPB) will be represented within the project by the Paderborn Center for Parallel Computing (PC²). PC² was founded in 1991 as an interdisciplinary institute of UPB and since then has established a reputation as a competence centre for parallel and distributed computing and innovative computer architecture. Two research groups whose heads are affiliated with PC² will contribute to the project.
 
 The [High-Performance IT Systems group](http://cs.uni-paderborn.de/hit) headed by Prof. Christian Plessl contributes expertise in the area of design methods and application of FPGA-based custom computing technology to scientific computing problems.
@@ -31,6 +35,10 @@ The role of UPB in the HighPerMeshes project is:
 <a name="fau"></a>
 ## Friedrich-Alexander Universität Erlangen-Nürnberg ##
 
+<picture>
+<img src="/assets/images/Logo-FAU.png" style="float:right;" title="FAU Logo">
+</picture>
+
 Friedrich-Alexander Universität Erlangen-Nürnberg (FAU) is ...
 
 The role of FAU in the HighPerMeshes project is:
@@ -42,6 +50,10 @@ The role of FAU in the HighPerMeshes project is:
 <a name="itwm"></a>
 ## Fraunhofer ITWM ##
 
+<picture>
+<img src="/assets/images/Logo-ITWM.png" style="float:right;" title="ITWM Logo">
+</picture>
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 The role of ITWM in the HighPerMeshes project is:
@@ -52,6 +64,10 @@ The role of ITWM in the HighPerMeshes project is:
 
 <a name="zib"></a>
 ## Konrad-Zuse-Zentrum für Informationstechnik Berlin ##
+
+<picture>
+<img src="/assets/images/Logo-ZIB.png" width="120" style="float:right;" title="FAU Logo">
+</picture>
 
 The Zuse Institute Berlin (ZIB) is a non-university research institute of the State of Berlin. In close interdisciplinary cooperation with the Berlin universities and scientific institutions Zuse Institute implements research and development in the field of information technology with a particular focus on application-oriented algorithmic mathematics and practical computer science. ZIB also provides high-performance computer capacity as an accompanying service.
 
@@ -66,6 +82,10 @@ The role of ZIB in the HighPerMeshes project is:
 
 <a name="cst"></a>
 ## Computer Simulation Technology AG (associated project partner) ##
+
+<picture>
+<img src="/assets/images/Logo-CST.jpg" style="float:right;" title="CST Logo">
+</picture>
 
 Computer Simulation Technology (CST) is ..
 

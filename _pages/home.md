@@ -14,5 +14,5 @@ The goal of HighPerMeshes is to develop a practically usable domain-specific fra
 **Funding Identifier**: 011H|160054
 
 <picture>
-<img src="assets/images/Logo-BMBF.png" width="180" title="BMBF Logo">
+<img src="/assets/images/Logo-BMBF.png" width="180" title="BMBF Logo">
 </picture>
