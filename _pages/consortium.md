@@ -31,6 +31,11 @@ The role of UPB in the HighPerMeshes project is:
 * develop domain-specific code generation and optimization strategies for FPGAs
 * validate results with FPGAs
 
+### Contact ###
+
+[Prof. Dr. Christian Plessl](mailto:christian.plessl@uni-paderborn.de)  
+[Prof. Dr. Jens Förstner](mailto:jens.foerstner@uni-paderborn.de)  
+
 
 <a name="fau"></a>
 ## Friedrich-Alexander Universität Erlangen-Nürnberg ##
