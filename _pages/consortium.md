@@ -76,9 +76,9 @@ The role of ITWM in the HighPerMeshes project is:
 
 The Zuse Institute Berlin (ZIB) is a non-university research institute of the State of Berlin. In close interdisciplinary cooperation with the Berlin universities and scientific institutions Zuse Institute implements research and development in the field of information technology with a particular focus on application-oriented algorithmic mathematics and practical computer science. ZIB also provides high-performance computer capacity as an accompanying service.
 
-In the [Supercomputing department] (http://www.zib.de/institute/parallel-and-distributed-computing/supercomputing) advanced programming tools and flexible runtime environments for complex application settings are developed targeting emerging technologies like heterogeneous many-core systems.
+In the [Supercomputing department](http://www.zib.de/institute/parallel-and-distributed-computing/supercomputing) advanced programming tools and flexible runtime environments for complex application settings are developed targeting emerging technologies like heterogeneous many-core systems.
 
-The "Numerical Mathematics" (http://www.zib.de/numeric) department develops efficient modelling, simulation, and optimization tools and algorithms for challenging application problems from medicine, systems biology, molecular dynamics and nano-optical systems.
+The [Numerical Mathematics](http://www.zib.de/numeric) department develops efficient modelling, simulation, and optimization tools and algorithms for challenging application problems from medicine, systems biology, molecular dynamics and nano-optical systems.
 
 The role of ZIB in the HighPerMeshes project is:
 
