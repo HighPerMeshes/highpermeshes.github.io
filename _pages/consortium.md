@@ -76,14 +76,19 @@ The role of ITWM in the HighPerMeshes project is:
 
 The Zuse Institute Berlin (ZIB) is a non-university research institute of the State of Berlin. In close interdisciplinary cooperation with the Berlin universities and scientific institutions Zuse Institute implements research and development in the field of information technology with a particular focus on application-oriented algorithmic mathematics and practical computer science. ZIB also provides high-performance computer capacity as an accompanying service.
 
-The Computer Science Dept. "Parallel and Distributed Systems" carries out research on scalable, fault-tolerant and distributed algorithms as well as the development of algorithms for heterogeneous many-core systems.
+In the [Supercomputing department] (http://www.zib.de/institute/parallel-and-distributed-computing/supercomputing) advanced programming tools and flexible runtime environments for complex application settings are developed targeting emerging technologies like heterogeneous many-core systems.
+
+The "Numerical Mathematics" (http://www.zib.de/numeric) department develops efficient modelling, simulation, and optimization tools and algorithms for challenging application problems from medicine, systems biology, molecular dynamics and nano-optical systems.
 
 The role of ZIB in the HighPerMeshes project is:
+
 * providing the Kaskade FE toolbox reference code and case studies
 * contribution to design and validation of domain-specific language
-* develop domain-specific code generation and optimization strategies for Multi- and Manycores (Xeon, Xeon Phi) and GPU (OpenCL)
-* design of intermediate representation for communication and task offloading
-* validate results with Multi- and Manycores
+* develop domain-specific code generation and optimization strategies
+  for multi- and many-cores (Xeon, Xeon Phi) and GPU (OpenCL)
+* design of intermediate representation for communication and task
+  offloading
+* validate results with multi- and many-cores
 
 <a name="cst"></a>
 ## Computer Simulation Technology AG (associated project partner) ##
