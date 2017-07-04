@@ -59,13 +59,15 @@ The role of FAU in the HighPerMeshes project is:
 <img src="/assets/images/Logo-ITWM.png" style="float:right;" title="ITWM Logo">
 </picture>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The [Fraunhofer Institute for Industrial Mathematics ITWM](https://www.itwm.fraunhofer.de/en) at Kaiserslautern is one of currently 66 institutes of the Fraunhofer-Gesellschaft, an application-oriented research organization. Fraunhofer ITWM focuses on the development of mathematical applications for industry, technology and economy. Mathematical approaches to practical  challenges are the specific competences of the institute and complement knowledge in engineering and economics in an optimal way.
+
+The [Competence Center High Performance Computing](https://www.itwm.fraunhofer.de/en/departments/hpc.html)
+contributes expertise in the development and application of innovative new software tools like the communication library GPI-2 for the efficient and highly scalable implementation of parallel software.
 
 The role of ITWM in the HighPerMeshes project is:
-* development problem partitioning strategies for large-scale clusters
+* development of code transformations for GPI-2 based interprocess communication and synchronization
+* development of problem partitioning strategies for large-scale clusters
 * providing task models for load balancing within a compute node and within the cluster
-* development of code transformations for communication and synchronization
-* commercial exploitation of results
 
 <a name="zib"></a>
 ## Konrad-Zuse-Zentrum für Informationstechnik Berlin ##
