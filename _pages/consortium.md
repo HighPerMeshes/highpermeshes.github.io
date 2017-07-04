@@ -94,10 +94,12 @@ The role of ZIB in the HighPerMeshes project is:
 ## Computer Simulation Technology AG (associated project partner) ##
 
 <picture>
-<img src="/assets/images/Logo-CST.jpg" style="float:right;" title="CST Logo">
+<img src="/assets/images/Logo-CST.png" style="float:right;" title="CST Logo">
 </picture>
 
-Computer Simulation Technology (CST) is ..
+[CST](http://www.cst.com) is a market leader in delivering 3D electromagnetic (EM) field simulation tools through a global network of sales and support staff and representatives. CST develops CST STUDIO SUITE, a package of high-performance software for the simulation of EM fields in all frequency bands. Its growing success is based on a combination of leading edge technology, a user-friendly interface and knowledgeable support staff. CST solutions are used by market leaders in a diverse range of industries, including aerospace, automotive, defense, electronics, healthcare and telecommunications. CST is part of [SIMULIA](http://www.3ds.com/simulia), a [Dassault Systèmes](http://www.3ds.com) brand. Further information about CST is available on the web at [www.cst.com](http://www.cst.com).
+
+
 
 The role of CST in the HighPerMeshes project is:
 * contribute to definition of requirements for domain-specific language and compilation framework
