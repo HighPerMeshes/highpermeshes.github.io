@@ -51,6 +51,9 @@ The role of FAU in the HighPerMeshes project is:
 * development of compiler infrastructure for transformation and optimization
 * development of OpenCL code generation backend
 
+### Contact ###
+
+[Dr. Frank Hannig](mailto:hannig@cs.fau.de)
 
 <a name="itwm"></a>
 ## Fraunhofer ITWM ##
@@ -61,13 +64,18 @@ The role of FAU in the HighPerMeshes project is:
 
 The [Fraunhofer Institute for Industrial Mathematics ITWM](https://www.itwm.fraunhofer.de/en) at Kaiserslautern is one of currently 66 institutes of the Fraunhofer-Gesellschaft, an application-oriented research organization. Fraunhofer ITWM focuses on the development of mathematical applications for industry, technology and economy. Mathematical approaches to practical  challenges are the specific competences of the institute and complement knowledge in engineering and economics in an optimal way.
 
-The [Competence Center High Performance Computing](https://www.itwm.fraunhofer.de/en/departments/hpc.html)
+The [Competence Center High Performance Computing](http://www.itwm.fraunhofer.de/abteilungen/hpc.html)
 contributes expertise in the development and application of innovative new software tools like the communication library GPI-2 for the efficient and highly scalable implementation of parallel software.
 
 The role of ITWM in the HighPerMeshes project is:
 * development of code transformations for GPI-2 based interprocess communication and synchronization
 * development of problem partitioning strategies for large-scale clusters
 * providing task models for load balancing within a compute node and within the cluster
+
+### Contact ###
+
+[Dr. Thomas Grünewald](mailto:daniel.gruenewald@itwm.fraunhofer.de)
+
 
 <a name="zib"></a>
 ## Konrad-Zuse-Zentrum für Informationstechnik Berlin ##
@@ -92,6 +100,11 @@ The role of ZIB in the HighPerMeshes project is:
   offloading
 * validate results with multi- and many-cores
 
+### Contact ###
+
+[Dr. Thomas Steinke](mailto:steinke@zib.de)  
+[Dr. Martin Weiser](mailto:weiser@zib.de)  
+
 <a name="cst"></a>
 ## Computer Simulation Technology AG (associated project partner) ##
 
@@ -101,9 +114,9 @@ The role of ZIB in the HighPerMeshes project is:
 
 [CST](http://www.cst.com) is a market leader in delivering 3D electromagnetic (EM) field simulation tools through a global network of sales and support staff and representatives. CST develops CST STUDIO SUITE, a package of high-performance software for the simulation of EM fields in all frequency bands. Its growing success is based on a combination of leading edge technology, a user-friendly interface and knowledgeable support staff. CST solutions are used by market leaders in a diverse range of industries, including aerospace, automotive, defense, electronics, healthcare and telecommunications. CST is part of [SIMULIA](http://www.3ds.com/simulia), a [Dassault Systèmes](http://www.3ds.com) brand. Further information about CST is available on the web at [www.cst.com](http://www.cst.com).
 
-
-
 The role of CST in the HighPerMeshes project is:
 * contribute to definition of requirements for domain-specific language and compilation framework
 * provide insights into customer demand and technological developments
 * validation of results with CST Microwave Studio
+
+### Contact ###
