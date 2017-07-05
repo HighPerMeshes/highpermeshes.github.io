@@ -44,7 +44,10 @@ The role of UPB in the HighPerMeshes project is:
 <img src="/assets/images/Logo-FAU.png" style="float:right;" title="FAU Logo">
 </picture>
 
-Friedrich-Alexander Universität Erlangen-Nürnberg (FAU) is ...
+
+Friedrich-Alexander University Erlangen-Nürnberg (FAU) is a strong research university and one of the largest universities in Germany, with 40,000 students and 4,000 academic staff (including over 570 professors).
+
+HighPerMeshes' project partner at FAU is the [Chair of Hardware/Software Co-Design](https://cs12.cms.rrze.uni-erlangen.de/). Here, the Architecture and Compiler Design (ACD) group headed by Dr. Frank Hannig contributes expert knowledge in the fields of domain-specific computing and programming languages, as well as compilation techniques for parallel processor architectures including accelerators.
 
 The role of FAU in the HighPerMeshes project is:
 * design of a domain-specific compiler front-end and intermediate representation
