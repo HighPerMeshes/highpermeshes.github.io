@@ -124,3 +124,5 @@ The role of CST in the HighPerMeshes project is:
 * validation of results with CST Microwave Studio
 
 ### Contact ###
+
+[Dr. Thomas Lau](mailto:Thomas.LAU@3ds.com)  
