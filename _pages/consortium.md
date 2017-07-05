@@ -74,7 +74,8 @@ The role of ITWM in the HighPerMeshes project is:
 
 ### Contact ###
 
-[Dr. Thomas Grünewald](mailto:daniel.gruenewald@itwm.fraunhofer.de)
+[Dr. Daniel Grünewald](mailto:daniel.gruenewald@itwm.fraunhofer.de)
+[Dr. Franz-Josef Pfreundt](mailto:franz-josef.pfreundt@itwm.fraunhofer.de)
 
 
 <a name="zib"></a>
