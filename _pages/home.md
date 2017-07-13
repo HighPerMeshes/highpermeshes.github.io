@@ -12,7 +12,7 @@ The goal of HighPerMeshes is to develop a practically usable domain-specific fra
 
 ## Funding  ##
 
-**Funding Identifier**: 011H|160054
+**Funding Identifier**: 01HI16005
 **Project Runtime**: 4/2017–3/2020  
 
 <picture>
