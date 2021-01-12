@@ -4,7 +4,7 @@ doi: DOI:10.1109/FCCM.2018.00037
 ris-id: 1588
 authors: T. Kenter, G. Mahale, S. Alhaddad, Y. Grynko, C. Schmitt, A. Afzal, F. Hannig, J. Förstner et al.
 publin: "IEEE, 2018, pages 189–196. ISBN:978-1-5386-5523-8"
-layout: single
+layout: archive
 ---
 <!-- Leave as is, let Jekyll do the work. -->
 {% capture doiurl %}https://doi.org/{{page.doi | remove_first: "DOI:"}}{% endcapture %}

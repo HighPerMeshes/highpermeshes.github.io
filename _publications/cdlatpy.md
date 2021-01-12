@@ -4,7 +4,7 @@ doi: DOI:10.1109/IPDPSW.2019.00126
 ris-id: 
 authors: F. Wende
 publin: "Proc. International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Int. Workshop on Automatic Performance Tunings (iWAPT). 2019, pages 758–766"
-layout: single
+layout: archive
 ---
 <!-- Leave as is, let Jekyll do the work. -->
 {% capture doiurl %}https://doi.org/{{page.doi | remove_first: "DOI:"}}{% endcapture %}

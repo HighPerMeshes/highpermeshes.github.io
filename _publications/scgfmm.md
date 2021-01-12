@@ -4,7 +4,7 @@ doi: DOI:10.1145/3323439.3323984
 ris-id: 16223
 authors: S. Groth, C. Schmitt, J. Teich and F. Hannig
 publin: "ACM, May 2019, pages 41–44. ISBN: 978-1-4503-6762-2"
-layout: single
+layout: archive
 ---
 <!-- Leave as is, let Jekyll do the work. -->
 {% capture doiurl %}https://doi.org/{{page.doi | remove_first: "DOI:"}}{% endcapture %}

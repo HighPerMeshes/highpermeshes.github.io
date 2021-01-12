@@ -4,7 +4,7 @@ doi: DOI:10.1109/ASAP.2018.8445127
 ris-id: 3588
 authors: Afzal, C. Schmitt, S. Alhaddad, Y. Grynko, J. Teich, J. Förstner und F. Hannig
 publin: "IEEE, July 2018, pages 49–56. ISBN: 978-1-5386-7479-6"
-layout: single
+layout: archive
 ---
 <!-- Leave as is, let Jekyll do the work. -->
 {% capture doiurl %}https://doi.org/{{page.doi | remove_first: "DOI:"}}{% endcapture %}

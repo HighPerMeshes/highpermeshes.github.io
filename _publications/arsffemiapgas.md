@@ -4,7 +4,7 @@ doi: DOI:10.1145/3387902.3392628
 ris-id: 16852
 authors: S. Groth, D. Grünewald, J. Teich and F. Hannig
 publin: "Proc. Int. Conference on Computing Frontiers (CF). ACM, 11.–13. May 2020, pages 39–48. ISBN: 978-1-4503-7956-4."
-layout: single
+layout: archive
 ---
 <!-- Leave as is, let Jekyll do the work. -->
 {% capture doiurl %}https://doi.org/{{page.doi | remove_first: "DOI:"}}{% endcapture %}

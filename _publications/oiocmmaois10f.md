@@ -4,7 +4,7 @@ doi: 10.1109/ICFPT47387.2019.00020
 ris-id: 15478
 authors: P. Gorlani, T. Kenter and C. Plessl
 publin: "Proc. Int. Conf. on Field Programmable Technology (ICFPT). IEEE Computer Society, Dec. 2019, pages 99–107."
-layout: single
+layout: archive
 ---
 <!-- Leave as is, let Jekyll do the work. -->
 {% capture doiurl %}https://doi.org/{{page.doi | remove_first: "DOI:"}}{% endcapture %}
