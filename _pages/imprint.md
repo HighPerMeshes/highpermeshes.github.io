@@ -19,7 +19,7 @@ University of Paderborn's VAT No: DE 811209907
 The competent supervisory authority for University of Paderborn is the NRW Ministry of Innovation, Science, Research and Technology, Völklinger Str. 49, 40221 Düsseldorf, Germany.
 
 Editorial responsibility
-The responsible editor with respect to the German State Treaty on Broadcasting Services and Telecommunication Media (§55 RStV) is the HighPerMeshes project coordinator, Prof. Dr. Christian Plessl, email: [christian.plessl@uni-paderborn.de](mailto:christian.plessl@uni-paderborn.de).
+The responsible editor with respect to the German State Treaty on Broadcasting Services and Telecommunication Media (§55 RStV) is the HighPerMeshes project coordinator, Prof. Dr. Christian Plessl, email: [christian.plessl [at] uni-paderborn.de](mailto:&#99;&#104;&#114;&#105;&#115;&#116;&#105;&#97;&#110;&#46;&#112;&#108;&#101;&#115;&#115;&#108;&#64;&#117;&#110;&#105;&#45;&#112;&#97;&#100;&#101;&#114;&#98;&#111;&#114;&#110;&#46;&#100;&#101;).
 
 # Disclaimer #
 
