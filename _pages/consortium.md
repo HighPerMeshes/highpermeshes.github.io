@@ -33,8 +33,8 @@ The role of UPB in the HighPerMeshes project is:
 
 ### Contact ###
 
-[Prof. Dr. Christian Plessl](mailto:christian.plessl@uni-paderborn.de)  
-[Prof. Dr. Jens Förstner](mailto:jens.foerstner@uni-paderborn.de)  
+[Prof. Dr. Christian Plessl](mailto:&#99;&#104;&#114;&#105;&#115;&#116;&#105;&#97;&#110;&#46;&#112;&#108;&#101;&#115;&#115;&#108;&#64;&#117;&#110;&#105;&#45;&#112;&#97;&#100;&#101;&#114;&#98;&#111;&#114;&#110;&#46;&#100;&#101;)  
+[Prof. Dr. Jens Förstner](mailto:&#106;&#101;&#110;&#115;&#46;&#102;&#111;&#101;&#114;&#115;&#116;&#110;&#101;&#114;&#64;&#117;&#110;&#105;&#45;&#112;&#97;&#100;&#101;&#114;&#98;&#111;&#114;&#110;&#46;&#100;&#101;)  
 
 
 <a name="fau"></a>
@@ -56,7 +56,7 @@ The role of FAU in the HighPerMeshes project is:
 
 ### Contact ###
 
-[Dr. Frank Hannig](mailto:hannig@cs.fau.de)
+[Dr. Frank Hannig](mailto:&#104;&#97;&#110;&#110;&#105;&#103;&#64;&#99;&#115;&#46;&#102;&#97;&#117;&#46;&#100;&#101;)  
 
 <a name="itwm"></a>
 ## Fraunhofer ITWM ##
@@ -77,8 +77,8 @@ The role of ITWM in the HighPerMeshes project is:
 
 ### Contact ###
 
-[Dr. Daniel Grünewald](mailto:daniel.gruenewald@itwm.fraunhofer.de)  
-[Dr. Franz-Josef Pfreundt](mailto:franz-josef.pfreundt@itwm.fraunhofer.de)  
+[Dr. Daniel Grünewald](mailto:&#100;&#97;&#110;&#105;&#101;&#108;&#46;&#103;&#114;&#117;&#101;&#110;&#101;&#119;&#97;&#108;&#100;&#64;&#105;&#116;&#119;&#109;&#46;&#102;&#114;&#97;&#117;&#110;&#104;&#111;&#102;&#101;&#114;&#46;&#100;&#101;)  
+[Dr. Franz-Josef Pfreundt](mailto:&#102;&#114;&#97;&#110;&#122;&#45;&#106;&#111;&#115;&#101;&#102;&#46;&#112;&#102;&#114;&#101;&#117;&#110;&#100;&#116;&#64;&#105;&#116;&#119;&#109;&#46;&#102;&#114;&#97;&#117;&#110;&#104;&#111;&#102;&#101;&#114;&#46;&#100;&#101;)  
 
 
 <a name="zib"></a>
@@ -106,8 +106,8 @@ The role of ZIB in the HighPerMeshes project is:
 
 ### Contact ###
 
-[Dr. Thomas Steinke](mailto:steinke@zib.de)  
-[Dr. Martin Weiser](mailto:weiser@zib.de)  
+[Dr. Thomas Steinke](mailto:&#115;&#116;&#101;&#105;&#110;&#107;&#101;&#64;&#122;&#105;&#98;&#46;&#100;&#101;)  
+[Dr. Martin Weiser](mailto:&#119;&#101;&#105;&#115;&#101;&#114;&#64;&#122;&#105;&#98;&#46;&#100;&#101;)  
 
 <a name="cst"></a>
 ## Computer Simulation Technology AG (associated project partner) ##
@@ -125,4 +125,4 @@ The role of CST in the HighPerMeshes project is:
 
 ### Contact ###
 
-[Dr. Thomas Lau](mailto:Thomas.LAU@3ds.com)  
+[Dr. Thomas Lau](mailto:&#116;&#104;&#111;&#109;&#97;&#115;&#46;&#108;&#97;&#117;&#64;&#51;&#100;&#115;&#46;&#99;&#111;&#109;)  
