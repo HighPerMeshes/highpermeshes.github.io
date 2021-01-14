@@ -1,6 +1,6 @@
 ---
 title: C++ Data Layout Abstractions through Proxy Types
-doi: DOI:10.1109/IPDPSW.2019.00126
+doi: 10.1109/IPDPSW.2019.00126
 ris-id: 
 authors: F. Wende
 publin: "Proc. International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Int. Workshop on Automatic Performance Tunings (iWAPT). 2019, pages 758–766"
@@ -14,9 +14,9 @@ layout: archive
 
 ## Information
 
-* DOI: <a href="{{doiurl}}">{{doiurl}}</a>
+* **DOI**: <a href="{{doiurl}}">{{doiurl}}</a>
 {% if page.ris-id %}
-* RIS: <a href="{{risurl}}">{{risurl}}</a>
+* **RIS**: <a href="{{risurl}}">{{risurl}}</a>
 {% endif %}
 <!-- Change abstract -->
 ## Abstract

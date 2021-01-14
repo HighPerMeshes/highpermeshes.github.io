@@ -14,8 +14,8 @@ layout: archive
 
 ## Information
 
-* DOI: <a href="{{doiurl}}">{{doiurl}}</a>
-* RIS: <a href="{{risurl}}">{{risurl}}</a>
+* **DOI**: <a href="{{doiurl}}">{{doiurl}}</a>
+* **RIS**: <a href="{{risurl}}">{{risurl}}</a>
 
 <!-- Change abstract -->
 ## Abstract

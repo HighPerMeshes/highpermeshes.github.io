@@ -1,6 +1,6 @@
 ---
 title: OpenCL-based FPGA Design to Accelerate the Nodal Discontinuous Galerkin Method for Unstructured Meshes
-doi: DOI:10.1109/FCCM.2018.00037
+doi: 10.1109/FCCM.2018.00037
 ris-id: 1588
 authors: T. Kenter, G. Mahale, S. Alhaddad, Y. Grynko, C. Schmitt, A. Afzal, F. Hannig, J. Förstner et al.
 publin: "IEEE, 2018, pages 189–196. ISBN:978-1-5386-5523-8"
@@ -14,9 +14,9 @@ layout: archive
 
 ## Information
 
-* DOI: <a href="{{doiurl}}">{{doiurl}}</a>
+* **DOI**: <a href="{{doiurl}}">{{doiurl}}</a>
 {% if page.ris-id %}
-* RIS: <a href="{{risurl}}">{{risurl}}</a>
+* **RIS**: <a href="{{risurl}}">{{risurl}}</a>
 {% endif %}
 
 <!-- Change abstract -->

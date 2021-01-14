@@ -1,6 +1,6 @@
 ---
 title: A Runtime System for Finite Element Methods in a Partitioned Global Address Space
-doi: DOI:10.1145/3387902.3392628
+doi: 10.1145/3387902.3392628
 ris-id: 16852
 authors: S. Groth, D. Grünewald, J. Teich and F. Hannig
 publin: "Proc. Int. Conference on Computing Frontiers (CF). ACM, 11.–13. May 2020, pages 39–48. ISBN: 978-1-4503-7956-4."
@@ -14,8 +14,8 @@ layout: archive
 
 ## Information
 
-* DOI: <a href="{{doiurl}}">{{doiurl}}</a>
-* RIS: <a href="{{risurl}}">{{risurl}}</a>
+* **DOI**: <a href="{{doiurl}}">{{doiurl}}</a>
+* **RIS**: <a href="{{risurl}}">{{risurl}}</a>
 
 <!-- Change abstract -->
 ## Abstract

@@ -19,7 +19,9 @@ Additionally, selected aspects of our work have been published in the following 
 		<a href="{{ pub.url }}">{{ pub.title }}
 	</a>
 	</h4>
-	{{ pub.authors }}
+	DOI: <a href="https://doi.org/{{ pub.doi }}">{{ pub.doi }}</a>
+	<br>
+	<i>{{ pub.authors }}</i>
 	</div>
 	</li>
 {% endfor %}

@@ -1,6 +1,6 @@
 ---
 title: SYCL Code Generation for Multigrid Methods
-doi: DOI:10.1145/3323439.3323984
+doi: 10.1145/3323439.3323984
 ris-id: 16223
 authors: S. Groth, C. Schmitt, J. Teich and F. Hannig
 publin: "ACM, May 2019, pages 41–44. ISBN: 978-1-4503-6762-2"
@@ -14,8 +14,8 @@ layout: archive
 
 ## Information
 
-* DOI: <a href="{{doiurl}}">{{doiurl}}</a>
-* RIS: <a href="{{risurl}}">{{risurl}}</a>
+* **DOI**: <a href="{{doiurl}}">{{doiurl}}</a>
+* **RIS**: <a href="{{risurl}}">{{risurl}}</a>
 
 <!-- Change abstract -->
 ## Abstract
