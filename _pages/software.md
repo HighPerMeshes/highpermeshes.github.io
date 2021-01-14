@@ -2,7 +2,20 @@
 title: "Software"
 permalink: /software/
 ---
+## HighPerMeshes-DSL ##
+#### Domain-specific language for matrix-free, unstructured grid algorithms ####
 
+**Einsatz:** Spezifikation von unstrukturierten Gitteralgorithmen und Generierung einer Einzelknoten Implementierung (Shared Memory System). Code-Generierung für CPU und generisches OpenCL Backend.
+
+## HighPerMeshes-DRTS-GASPI ##
+#### Distributed runtime system (DRTS) for HighPerMeshes DSL based on GASPI ####
+
+**Einsatz:** Parallele Ausführung einer mit der HighPerMeshes DSL erzeugten Implementierung auf einem Distributed Memory HPC-System. Unterstützt automatische Problem-Partitionierung und Lastbalancierung.
+
+## Proxy-Type-Generator and Source-to-Source Codetransforation Tool ##
+#### A standalone tool that draws on (Clang) LibTooling for source code analysis and proxy-type generation for structured data types. ####
+
+**Einsatz:** Automatische codespezifische Erzeugung von Datenschnittstellen für die transparente Nutzung unterschiedlicher Daten-Layouts.
 
 ## KASKADE 7 ##
 
