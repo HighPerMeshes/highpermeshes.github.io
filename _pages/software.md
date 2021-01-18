@@ -2,18 +2,30 @@
 title: "Software"
 permalink: /software/
 ---
-## HighPerMeshes-DSL ##
-#### Domain-specific language for matrix-free, unstructured grid algorithms ####
+
+
+<html>
+<div class="github-card" data-github="HighPerMeshes/highpermeshes-dsl" data-height="" data-width="100%" data-theme="default" target="blank"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+</html>
 
 **Einsatz:** Spezifikation von unstrukturierten Gitteralgorithmen und Generierung einer Einzelknoten Implementierung (Shared Memory System). Code-Generierung für CPU und generisches OpenCL Backend.
 
-## HighPerMeshes-DRTS-GASPI ##
-#### Distributed runtime system (DRTS) for HighPerMeshes DSL based on GASPI ####
+---
+
+<html>
+<div class="github-card" data-github="HighPerMeshes/highpermeshes-drts-gaspi" data-height="" data-width="100%" data-theme="default" target="blank"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+</html>
 
 **Einsatz:** Parallele Ausführung einer mit der HighPerMeshes DSL erzeugten Implementierung auf einem Distributed Memory HPC-System. Unterstützt automatische Problem-Partitionierung und Lastbalancierung.
 
-## Proxy-Type-Generator and Source-to-Source Codetransforation Tool ##
-#### A standalone tool that draws on (Clang) LibTooling for source code analysis and proxy-type generation for structured data types. ####
+---
+
+<html>
+<div class="github-card" data-github="flwende/code_transformation" data-height="" data-width="100%" data-theme="default" target="blank"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+</html>
 
 **Einsatz:** Automatische codespezifische Erzeugung von Datenschnittstellen für die transparente Nutzung unterschiedlicher Daten-Layouts.
 
