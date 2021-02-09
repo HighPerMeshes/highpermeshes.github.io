@@ -9,8 +9,6 @@ permalink: /software/
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 </html>
 
-**Einsatz:** Spezifikation von unstrukturierten Gitteralgorithmen und Generierung einer Einzelknoten Implementierung (Shared Memory System). Code-Generierung für CPU und generisches OpenCL Backend.
-
 ---
 
 <html>
@@ -18,7 +16,12 @@ permalink: /software/
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 </html>
 
-**Einsatz:** Parallele Ausführung einer mit der HighPerMeshes DSL erzeugten Implementierung auf einem Distributed Memory HPC-System. Unterstützt automatische Problem-Partitionierung und Lastbalancierung.
+---
+
+<html>
+<div class="github-card" data-github="HighPerMeshes/opencl-generator" data-height="" data-width="100%" data-theme="default" target="blank"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+</html>
 
 ---
 
@@ -27,7 +30,8 @@ permalink: /software/
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
 </html>
 
-**Einsatz:** Automatische codespezifische Erzeugung von Datenschnittstellen für die transparente Nutzung unterschiedlicher Daten-Layouts.
+
+
 
 ## KASKADE 7 ##
 
